@@ -1,0 +1,76 @@
+body{
+background-image: url(background.jpg);
+background-size: 100%;
+font-family:sans-serif;
+color: White;
+}
+
+.container{
+  width: 900px;
+  height: 550px;
+  background-color: rgba(0,0,0,0.5);
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  border-radius: 10px;
+  padding-top: 30px;
+}
+
+header{
+  color: #00ff00;
+}
+
+.logo{
+width: 170px;
+}
+
+nav{
+  width: 80%;
+  height: 20px;
+  background-color: #00ff00;
+  padding: 7px;
+  margin: auto;
+  position:relative;
+  bottom:18px;
+}
+
+main{
+  text-align: left;
+  margin-left: 80px;
+}
+
+.two, .three{
+margin-top: 20px;
+}
+
+.mono{
+  font-size: 20px;
+  font-stretch: semi-expanded;
+  font-weight: bold;
+}
+
+.indirizzo, .carica{
+  font-size: 13px;
+  opacity: 85%;
+}
+
+.barra{
+  padding: 10px;
+  height: 5px;
+  border-radius: 5px;
+}
+
+.arancio{
+  background: #ffbc40;
+  width:300px;
+}
+
+.verde{
+  background: limegreen;
+  width: 500px;
+}
+
+.rossa{
+  background: #ce3018;
+  width: 150px;
+}
